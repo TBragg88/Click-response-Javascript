@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Add this line */
+    min-height: 100vh;
     background-image: url(/images/hero.jpg.png);
     background-size: cover;
     font-family: Pijamas, sans-serif;
