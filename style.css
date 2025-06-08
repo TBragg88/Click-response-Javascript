@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(/images/hero.jpg.png);
+    background-image: url(/images/hero.png);
     background-size: cover;
     font-family: Pijamas, sans-serif;
     font-weight: bold;
