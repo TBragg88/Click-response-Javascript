@@ -30,3 +30,4 @@ function reset() {
     totalThumb.textContent = "Total: " + totalCount;
 }
 
+fontsize
